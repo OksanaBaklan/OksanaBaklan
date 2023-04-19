@@ -3,7 +3,7 @@
 <div id="badges">
   <a href="https://linkedin.com/in/oksana-baklan">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
-
+<br/>
 <img  align="center" src="https://komarev.com/ghpvc/?username=OksanaBaklan&style=flat-square&color=blue" alt=""/>
 <h1>
   hey there
